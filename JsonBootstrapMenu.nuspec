@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>JsonBootstrapMenu</id>
+        <version>0.1.0</version>
+        <title>Json Bootstrap Menu</title>
+        <authors>Hrusikesh Panda</authors>
+        <licenseUrl>https://github.com/mrchief/JsonBootstrapMenu/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/mrchief/JsonBootstrapMenu</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Create Bootstrap (3) Menus with a simple JSON config file in ASP.NET</description>
+        <summary>Create Bootstrap (3) Menus with a simple JSON config file in ASP.NET</summary>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="6.0.5" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="JsonBootstrapMenu\bin\Release\JsonBootstrapMenu.dll" target="lib\net45\JsonBootstrapMenu.dll" />
+        <file src="JsonBootstrapMenu\bin\Release\JsonBootstrapMenu.pdb" target="lib\net45\JsonBootstrapMenu.pdb" />
+    </files>
+</package>

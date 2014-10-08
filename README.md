@@ -6,6 +6,9 @@ Create Bootstrap (3) Menus with a simple JSON config file in ASP.NET
 
 ##Usage
 
+Install via Nuget: [JsonBootstrapMenu](https://www.nuget.org/packages/JsonBootstrapMenu/)
+
+##Sample
 
 Given this config:
 
